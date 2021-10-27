@@ -22,7 +22,7 @@ export default function Home({ posts }) {
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
         <div className="flex flex-col text-9xl text-center mb-5">
           <h1 className="text-4xl md:text-6xl lg:text-8xl ">
-            <span class="bg-clip-text text-transparent bg-gradient-to-r from-blue-300 dark:from-gray-50 to-blue-500">
+            <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-300 dark:from-gray-50 to-blue-500">
               I am Mark Fang.
             </span>
           </h1>
